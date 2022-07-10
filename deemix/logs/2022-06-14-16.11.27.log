@@ -1,0 +1,543 @@
+linux - Linux 5.18.3-arch1-1 x64
+
+2022-06-14T15:11:27.036Z [info] Listening on port 6595
+2022-06-14T15:11:28.044Z [info] Currently running deemix-gui version 2022.4.28-r202.475ccfc850
+2022-06-14T15:11:28.045Z [info] deemix-lib version 3.6.9
+2022-06-14T15:17:38.537Z [info] Adding https://deezer.com/album/164408822 to queue
+2022-06-14T15:17:39.462Z [info] [album_164408822_3] Mick Gordon - I. Dogma :: Getting tags.
+2022-06-14T15:17:39.464Z [info] [album_164408822_3] Mick Gordon - Rip & Tear :: Getting tags.
+2022-06-14T15:17:39.465Z [info] [album_164408822_3] Mick Gordon - At Doom's Gate :: Getting tags.
+2022-06-14T15:17:39.748Z [info] [album_164408822_3] Mick Gordon - Rip & Tear :: Tags got.
+2022-06-14T15:17:39.749Z [info] [album_164408822_3] Mick Gordon - Rip & Tear :: Getting download URL.
+2022-06-14T15:17:39.749Z [info] [album_164408822_3] Mick Gordon - Rip & Tear :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:39.750Z [info] [album_164408822_3] Mick Gordon - Rust, Dust & Guts :: Getting tags.
+2022-06-14T15:17:39.757Z [info] [album_164408822_3] Mick Gordon - I. Dogma :: Tags got.
+2022-06-14T15:17:39.757Z [info] [album_164408822_3] Mick Gordon - I. Dogma :: Getting download URL.
+2022-06-14T15:17:39.757Z [info] [album_164408822_3] Download at 6%
+2022-06-14T15:17:39.757Z [info] [album_164408822_3] Mick Gordon - I. Dogma :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:39.757Z [info] [album_164408822_3] Mick Gordon - II. Demigod :: Getting tags.
+2022-06-14T15:17:39.765Z [info] [album_164408822_3] Mick Gordon - At Doom's Gate :: Tags got.
+2022-06-14T15:17:39.765Z [info] [album_164408822_3] Mick Gordon - At Doom's Gate :: Getting download URL.
+2022-06-14T15:17:39.765Z [info] [album_164408822_3] Mick Gordon - At Doom's Gate :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:39.765Z [info] [album_164408822_3] Mick Gordon - Hellwalker :: Getting tags.
+2022-06-14T15:17:40.040Z [info] [album_164408822_3] Mick Gordon - Hellwalker :: Tags got.
+2022-06-14T15:17:40.040Z [info] [album_164408822_3] Mick Gordon - Hellwalker :: Getting download URL.
+2022-06-14T15:17:40.041Z [info] [album_164408822_3] Download at 12%
+2022-06-14T15:17:40.041Z [info] [album_164408822_3] Mick Gordon - Hellwalker :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.041Z [info] [album_164408822_3] Mick Gordon - Authorization; Olivia Pierce :: Getting tags.
+2022-06-14T15:17:40.045Z [info] [album_164408822_3] Mick Gordon - Rust, Dust & Guts :: Tags got.
+2022-06-14T15:17:40.045Z [info] [album_164408822_3] Mick Gordon - Rust, Dust & Guts :: Getting download URL.
+2022-06-14T15:17:40.046Z [info] [album_164408822_3] Download at 16%
+2022-06-14T15:17:40.046Z [info] [album_164408822_3] Mick Gordon - Rust, Dust & Guts :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.046Z [info] [album_164408822_3] Mick Gordon - Flesh & Metal :: Getting tags.
+2022-06-14T15:17:40.054Z [info] [album_164408822_3] Mick Gordon - II. Demigod :: Tags got.
+2022-06-14T15:17:40.054Z [info] [album_164408822_3] Mick Gordon - II. Demigod :: Getting download URL.
+2022-06-14T15:17:40.055Z [info] [album_164408822_3] Mick Gordon - II. Demigod :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.055Z [info] [album_164408822_3] Mick Gordon - Impure Spectrum :: Getting tags.
+2022-06-14T15:17:40.334Z [info] [album_164408822_3] Mick Gordon - Flesh & Metal :: Tags got.
+2022-06-14T15:17:40.334Z [info] [album_164408822_3] Mick Gordon - Flesh & Metal :: Getting download URL.
+2022-06-14T15:17:40.335Z [info] [album_164408822_3] Download at 22%
+2022-06-14T15:17:40.335Z [info] [album_164408822_3] Mick Gordon - Flesh & Metal :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.336Z [info] [album_164408822_3] Mick Gordon - Ties That Bind :: Getting tags.
+2022-06-14T15:17:40.341Z [info] [album_164408822_3] Mick Gordon - Impure Spectrum :: Tags got.
+2022-06-14T15:17:40.342Z [info] [album_164408822_3] Mick Gordon - Impure Spectrum :: Getting download URL.
+2022-06-14T15:17:40.342Z [info] [album_164408822_3] Mick Gordon - Impure Spectrum :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.343Z [info] [album_164408822_3] Mick Gordon - Bfg Division :: Getting tags.
+2022-06-14T15:17:40.420Z [info] [album_164408822_3] Mick Gordon - Authorization; Olivia Pierce :: Tags got.
+2022-06-14T15:17:40.420Z [info] [album_164408822_3] Mick Gordon - Authorization; Olivia Pierce :: Getting download URL.
+2022-06-14T15:17:40.420Z [info] [album_164408822_3] Mick Gordon - Authorization; Olivia Pierce :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.421Z [info] [album_164408822_3] Mick Gordon - Residual :: Getting tags.
+2022-06-14T15:17:40.632Z [info] [album_164408822_3] Mick Gordon - Bfg Division :: Tags got.
+2022-06-14T15:17:40.633Z [info] [album_164408822_3] Mick Gordon - Bfg Division :: Getting download URL.
+2022-06-14T15:17:40.633Z [info] [album_164408822_3] Download at 32%
+2022-06-14T15:17:40.634Z [info] [album_164408822_3] Mick Gordon - Bfg Division :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.634Z [info] [album_164408822_3] Mick Gordon - Argent Energy :: Getting tags.
+2022-06-14T15:17:40.691Z [info] [album_164408822_3] Mick Gordon - Ties That Bind :: Tags got.
+2022-06-14T15:17:40.692Z [info] [album_164408822_3] Mick Gordon - Ties That Bind :: Getting download URL.
+2022-06-14T15:17:40.692Z [info] [album_164408822_3] Mick Gordon - Ties That Bind :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.692Z [info] [album_164408822_3] Mick Gordon - Harbinger :: Getting tags.
+2022-06-14T15:17:40.701Z [info] [album_164408822_3] Mick Gordon - Residual :: Tags got.
+2022-06-14T15:17:40.701Z [info] [album_164408822_3] Mick Gordon - Residual :: Getting download URL.
+2022-06-14T15:17:40.701Z [info] [album_164408822_3] Download at 38%
+2022-06-14T15:17:40.701Z [info] [album_164408822_3] Mick Gordon - Residual :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.701Z [info] [album_164408822_3] Mick Gordon - Biowaves :: Getting tags.
+2022-06-14T15:17:40.949Z [info] [album_164408822_3] Mick Gordon - Argent Energy :: Tags got.
+2022-06-14T15:17:40.950Z [info] [album_164408822_3] Mick Gordon - Argent Energy :: Getting download URL.
+2022-06-14T15:17:40.951Z [info] [album_164408822_3] Mick Gordon - Argent Energy :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.951Z [info] [album_164408822_3] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Getting tags.
+2022-06-14T15:17:40.985Z [info] [album_164408822_3] Mick Gordon - Harbinger :: Tags got.
+2022-06-14T15:17:40.985Z [info] [album_164408822_3] Mick Gordon - Harbinger :: Getting download URL.
+2022-06-14T15:17:40.986Z [info] [album_164408822_3] Mick Gordon - Harbinger :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.986Z [info] [album_164408822_3] Mick Gordon - Transistor Fist :: Getting tags.
+2022-06-14T15:17:40.994Z [info] [album_164408822_3] Mick Gordon - Biowaves :: Tags got.
+2022-06-14T15:17:40.994Z [info] [album_164408822_3] Mick Gordon - Biowaves :: Getting download URL.
+2022-06-14T15:17:40.995Z [info] [album_164408822_3] Download at 48%
+2022-06-14T15:17:40.996Z [info] [album_164408822_3] Mick Gordon - Biowaves :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:40.996Z [info] [album_164408822_3] Mick Gordon - Dr. Samuel Hayden :: Getting tags.
+2022-06-14T15:17:41.255Z [info] [album_164408822_3] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Tags got.
+2022-06-14T15:17:41.256Z [info] [album_164408822_3] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Getting download URL.
+2022-06-14T15:17:41.256Z [info] [album_164408822_3] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:41.256Z [info] [album_164408822_3] Mick Gordon - Cyberdemon :: Getting tags.
+2022-06-14T15:17:41.296Z [info] [album_164408822_3] Mick Gordon - Transistor Fist :: Tags got.
+2022-06-14T15:17:41.296Z [info] [album_164408822_3] Mick Gordon - Transistor Fist :: Getting download URL.
+2022-06-14T15:17:41.297Z [info] [album_164408822_3] Download at 54%
+2022-06-14T15:17:41.297Z [info] [album_164408822_3] Mick Gordon - Transistor Fist :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:41.298Z [info] [album_164408822_3] Mick Gordon - Incantation :: Getting tags.
+2022-06-14T15:17:41.303Z [info] [album_164408822_3] Mick Gordon - Dr. Samuel Hayden :: Tags got.
+2022-06-14T15:17:41.303Z [info] [album_164408822_3] Mick Gordon - Dr. Samuel Hayden :: Getting download URL.
+2022-06-14T15:17:41.303Z [info] [album_164408822_3] Download at 58%
+2022-06-14T15:17:41.304Z [info] [album_164408822_3] Mick Gordon - Dr. Samuel Hayden :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:41.304Z [info] [album_164408822_3] Mick Gordon - III. Dakhma :: Getting tags.
+2022-06-14T15:17:41.556Z [info] [album_164408822_3] Mick Gordon - Cyberdemon :: Tags got.
+2022-06-14T15:17:41.557Z [info] [album_164408822_3] Mick Gordon - Cyberdemon :: Getting download URL.
+2022-06-14T15:17:41.558Z [info] [album_164408822_3] Mick Gordon - Cyberdemon :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:41.559Z [info] [album_164408822_3] Mick Gordon - Damnation :: Getting tags.
+2022-06-14T15:17:41.594Z [info] [album_164408822_3] Mick Gordon - Incantation :: Tags got.
+2022-06-14T15:17:41.594Z [info] [album_164408822_3] Mick Gordon - Incantation :: Getting download URL.
+2022-06-14T15:17:41.595Z [info] [album_164408822_3] Download at 64%
+2022-06-14T15:17:41.595Z [info] [album_164408822_3] Mick Gordon - Incantation :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:41.595Z [info] [album_164408822_3] Mick Gordon - The Stench :: Getting tags.
+2022-06-14T15:17:41.599Z [info] [album_164408822_3] Mick Gordon - III. Dakhma :: Tags got.
+2022-06-14T15:17:41.599Z [info] [album_164408822_3] Mick Gordon - III. Dakhma :: Getting download URL.
+2022-06-14T15:17:41.599Z [info] [album_164408822_3] Mick Gordon - III. Dakhma :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:41.599Z [info] [album_164408822_3] Mick Gordon - Uac Report File; Shto36u3 :: Getting tags.
+2022-06-14T15:17:41.895Z [info] [album_164408822_3] Mick Gordon - Damnation :: Tags got.
+2022-06-14T15:17:41.896Z [info] [album_164408822_3] Mick Gordon - Damnation :: Getting download URL.
+2022-06-14T15:17:41.896Z [info] [album_164408822_3] Download at 70%
+2022-06-14T15:17:41.896Z [info] [album_164408822_3] Mick Gordon - Damnation :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:41.897Z [info] [album_164408822_3] Mick Gordon - Death & Exhale :: Getting tags.
+2022-06-14T15:17:41.912Z [info] [album_164408822_3] Mick Gordon - The Stench :: Tags got.
+2022-06-14T15:17:41.912Z [info] [album_164408822_3] Mick Gordon - The Stench :: Getting download URL.
+2022-06-14T15:17:41.912Z [info] [album_164408822_3] Download at 74%
+2022-06-14T15:17:41.913Z [info] [album_164408822_3] Mick Gordon - The Stench :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:41.913Z [info] [album_164408822_3] Mick Gordon - SkullHacker :: Getting tags.
+2022-06-14T15:17:41.917Z [info] [album_164408822_3] Mick Gordon - Uac Report File; Shto36u3 :: Tags got.
+2022-06-14T15:17:41.917Z [info] [album_164408822_3] Mick Gordon - Uac Report File; Shto36u3 :: Getting download URL.
+2022-06-14T15:17:41.917Z [info] [album_164408822_3] Mick Gordon - Uac Report File; Shto36u3 :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:41.918Z [info] [album_164408822_3] Mick Gordon - Lazarus Waves :: Getting tags.
+2022-06-14T15:17:42.181Z [info] [album_164408822_3] Mick Gordon - Death & Exhale :: Tags got.
+2022-06-14T15:17:42.181Z [info] [album_164408822_3] Mick Gordon - Death & Exhale :: Getting download URL.
+2022-06-14T15:17:42.181Z [info] [album_164408822_3] Download at 80%
+2022-06-14T15:17:42.181Z [info] [album_164408822_3] Mick Gordon - Death & Exhale :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:42.182Z [info] [album_164408822_3] Mick Gordon - Vega Core :: Getting tags.
+2022-06-14T15:17:42.222Z [info] [album_164408822_3] Mick Gordon - Lazarus Waves :: Tags got.
+2022-06-14T15:17:42.223Z [info] [album_164408822_3] Mick Gordon - Lazarus Waves :: Getting download URL.
+2022-06-14T15:17:42.223Z [info] [album_164408822_3] Mick Gordon - Lazarus Waves :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:42.223Z [info] [album_164408822_3] Mick Gordon - 6_idkill.Vega.Cih :: Getting tags.
+2022-06-14T15:17:42.227Z [info] [album_164408822_3] Mick Gordon - SkullHacker :: Tags got.
+2022-06-14T15:17:42.228Z [info] [album_164408822_3] Mick Gordon - SkullHacker :: Getting download URL.
+2022-06-14T15:17:42.228Z [info] [album_164408822_3] Mick Gordon - SkullHacker :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:42.228Z [info] [album_164408822_3] Mick Gordon - Mastermind :: Getting tags.
+2022-06-14T15:17:42.462Z [info] [album_164408822_3] Mick Gordon - Vega Core :: Tags got.
+2022-06-14T15:17:42.462Z [info] [album_164408822_3] Mick Gordon - Vega Core :: Getting download URL.
+2022-06-14T15:17:42.462Z [info] [album_164408822_3] Download at 90%
+2022-06-14T15:17:42.463Z [info] [album_164408822_3] Mick Gordon - Vega Core :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:42.463Z [info] [album_164408822_3] Mick Gordon - IV. Doom :: Getting tags.
+2022-06-14T15:17:42.500Z [info] [album_164408822_3] Mick Gordon - Mastermind :: Tags got.
+2022-06-14T15:17:42.500Z [info] [album_164408822_3] Mick Gordon - Mastermind :: Getting download URL.
+2022-06-14T15:17:42.500Z [info] [album_164408822_3] Mick Gordon - Mastermind :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:42.503Z [info] [album_164408822_3] Mick Gordon - 6_idkill.Vega.Cih :: Tags got.
+2022-06-14T15:17:42.503Z [info] [album_164408822_3] Mick Gordon - 6_idkill.Vega.Cih :: Getting download URL.
+2022-06-14T15:17:42.504Z [info] [album_164408822_3] Download at 96%
+2022-06-14T15:17:42.504Z [info] [album_164408822_3] Mick Gordon - 6_idkill.Vega.Cih :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:42.751Z [info] [album_164408822_3] Mick Gordon - IV. Doom :: Tags got.
+2022-06-14T15:17:42.752Z [info] [album_164408822_3] Mick Gordon - IV. Doom :: Getting download URL.
+2022-06-14T15:17:42.752Z [info] [album_164408822_3] Mick Gordon - IV. Doom :: Your account can't stream the track at the desired bitrate.
+2022-06-14T15:17:42.756Z [info] [album_164408822_3]
+2022-06-14T15:17:42.756Z [info] [album_164408822_3] Finished downloading
+2022-06-14T15:17:42.757Z [info] 
+2022-06-14T15:19:36.423Z [info] Settings saved
+2022-06-14T15:19:45.545Z [info] Adding https://deezer.com/album/164408822 to queue
+2022-06-14T15:19:46.382Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Getting tags.
+2022-06-14T15:19:46.382Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Getting tags.
+2022-06-14T15:19:46.382Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Getting tags.
+2022-06-14T15:19:46.685Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Tags got.
+2022-06-14T15:19:46.685Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Getting download URL.
+2022-06-14T15:19:46.689Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Tags got.
+2022-06-14T15:19:46.690Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Getting download URL.
+2022-06-14T15:19:46.694Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Tags got.
+2022-06-14T15:19:46.694Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Getting download URL.
+2022-06-14T15:19:46.915Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Download URL got.
+2022-06-14T15:19:46.918Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Downloading album art.
+2022-06-14T15:19:46.926Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Download URL got.
+2022-06-14T15:19:46.927Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Downloading album art.
+2022-06-14T15:19:46.935Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Download URL got.
+2022-06-14T15:19:46.935Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Downloading album art.
+2022-06-14T15:19:47.123Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Album art downloaded.
+2022-06-14T15:19:47.125Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Album art downloaded.
+2022-06-14T15:19:47.126Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Album art downloaded.
+2022-06-14T15:19:47.273Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Downloading track. Downloading 1133504 bytes.
+2022-06-14T15:19:47.326Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Downloading track. Downloading 4124838 bytes.
+2022-06-14T15:19:47.340Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Downloading track. Downloading 714291 bytes.
+2022-06-14T15:19:47.390Z [info] [album_164408822_1] Download at 2%
+2022-06-14T15:19:47.430Z [info] [album_164408822_1] Download at 4%
+2022-06-14T15:19:47.442Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Track downloaded.
+2022-06-14T15:19:47.442Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Tagging track.
+2022-06-14T15:19:47.448Z [info] [album_164408822_1] Mick Gordon - At Doom's Gate :: Track tagged.
+2022-06-14T15:19:47.448Z [info] [album_164408822_1] Completed download of 03 - At Doom's Gate.mp3
+2022-06-14T15:19:47.448Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Getting tags.
+2022-06-14T15:19:47.481Z [info] [album_164408822_1] Download at 6%
+2022-06-14T15:19:47.502Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Track downloaded.
+2022-06-14T15:19:47.502Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Tagging track.
+2022-06-14T15:19:47.506Z [info] [album_164408822_1] Mick Gordon - I. Dogma :: Track tagged.
+2022-06-14T15:19:47.506Z [info] [album_164408822_1] Completed download of 01 - I. Dogma.mp3
+2022-06-14T15:19:47.506Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Getting tags.
+2022-06-14T15:19:47.738Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Tags got.
+2022-06-14T15:19:47.738Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Getting download URL.
+2022-06-14T15:19:47.771Z [info] [album_164408822_1] Download at 8%
+2022-06-14T15:19:47.852Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Tags got.
+2022-06-14T15:19:47.852Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Getting download URL.
+2022-06-14T15:19:47.900Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Track downloaded.
+2022-06-14T15:19:47.900Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Tagging track.
+2022-06-14T15:19:47.915Z [info] [album_164408822_1] Mick Gordon - Rip & Tear :: Track tagged.
+2022-06-14T15:19:47.915Z [info] [album_164408822_1] Completed download of 02 - Rip & Tear.mp3
+2022-06-14T15:19:47.915Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Getting tags.
+2022-06-14T15:19:47.947Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Download URL got.
+2022-06-14T15:19:47.947Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Downloading album art.
+2022-06-14T15:19:47.948Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Album art downloaded.
+2022-06-14T15:19:48.021Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Download URL got.
+2022-06-14T15:19:48.022Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Downloading album art.
+2022-06-14T15:19:48.022Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Album art downloaded.
+2022-06-14T15:19:48.157Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Downloading track. Downloading 7390771 bytes.
+2022-06-14T15:19:48.210Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Downloading track. Downloading 801226 bytes.
+2022-06-14T15:19:48.234Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Tags got.
+2022-06-14T15:19:48.234Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Getting download URL.
+2022-06-14T15:19:48.246Z [info] [album_164408822_1] Download at 10%
+2022-06-14T15:19:48.332Z [info] [album_164408822_1] Download at 12%
+2022-06-14T15:19:48.389Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Track downloaded.
+2022-06-14T15:19:48.390Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Tagging track.
+2022-06-14T15:19:48.393Z [info] [album_164408822_1] Mick Gordon - II. Demigod :: Track tagged.
+2022-06-14T15:19:48.393Z [info] [album_164408822_1] Completed download of 05 - II. Demigod.mp3
+2022-06-14T15:19:48.394Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Getting tags.
+2022-06-14T15:19:48.418Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Download URL got.
+2022-06-14T15:19:48.418Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Downloading album art.
+2022-06-14T15:19:48.419Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Album art downloaded.
+2022-06-14T15:19:48.474Z [info] [album_164408822_1] Download at 14%
+2022-06-14T15:19:48.835Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Tags got.
+2022-06-14T15:19:48.835Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Getting download URL.
+2022-06-14T15:19:48.849Z [info] [album_164408822_1] Download at 16%
+2022-06-14T15:19:48.861Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Downloading track. Downloading 4888867 bytes.
+2022-06-14T15:19:48.870Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Track downloaded.
+2022-06-14T15:19:48.870Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Tagging track.
+2022-06-14T15:19:48.893Z [info] [album_164408822_1] Mick Gordon - Rust, Dust & Guts :: Track tagged.
+2022-06-14T15:19:48.893Z [info] [album_164408822_1] Completed download of 04 - Rust, Dust & Guts.mp3
+2022-06-14T15:19:48.894Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Getting tags.
+2022-06-14T15:19:49.018Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Download URL got.
+2022-06-14T15:19:49.018Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Downloading album art.
+2022-06-14T15:19:49.018Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Album art downloaded.
+2022-06-14T15:19:49.191Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Tags got.
+2022-06-14T15:19:49.191Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Getting download URL.
+2022-06-14T15:19:49.254Z [info] [album_164408822_1] Download at 18%
+2022-06-14T15:19:49.386Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Downloading track. Downloading 2297102 bytes.
+2022-06-14T15:19:49.421Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Track downloaded.
+2022-06-14T15:19:49.421Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Tagging track.
+2022-06-14T15:19:49.438Z [info] [album_164408822_1] Mick Gordon - Hellwalker :: Track tagged.
+2022-06-14T15:19:49.438Z [info] [album_164408822_1] Completed download of 06 - Hellwalker.mp3
+2022-06-14T15:19:49.438Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Getting tags.
+2022-06-14T15:19:49.457Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Download URL got.
+2022-06-14T15:19:49.457Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Downloading album art.
+2022-06-14T15:19:49.457Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Album art downloaded.
+2022-06-14T15:19:49.569Z [info] [album_164408822_1] Download at 20%
+2022-06-14T15:19:49.719Z [info] [album_164408822_1] Download at 22%
+2022-06-14T15:19:49.726Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Tags got.
+2022-06-14T15:19:49.727Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Getting download URL.
+2022-06-14T15:19:49.730Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Downloading track. Downloading 6752965 bytes.
+2022-06-14T15:19:49.770Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Track downloaded.
+2022-06-14T15:19:49.770Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Tagging track.
+2022-06-14T15:19:49.780Z [info] [album_164408822_1] Mick Gordon - Authorization; Olivia Pierce :: Track tagged.
+2022-06-14T15:19:49.780Z [info] [album_164408822_1] Completed download of 07 - Authorization; Olivia Pierce.mp3
+2022-06-14T15:19:49.780Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Getting tags.
+2022-06-14T15:19:49.883Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Download URL got.
+2022-06-14T15:19:49.883Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Downloading album art.
+2022-06-14T15:19:49.883Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Album art downloaded.
+2022-06-14T15:19:50.029Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Downloading track. Downloading 1673925 bytes.
+2022-06-14T15:19:50.074Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Tags got.
+2022-06-14T15:19:50.074Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Getting download URL.
+2022-06-14T15:19:50.103Z [info] [album_164408822_1] Download at 24%
+2022-06-14T15:19:50.214Z [info] [album_164408822_1] Download at 26%
+2022-06-14T15:19:50.282Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Track downloaded.
+2022-06-14T15:19:50.282Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Tagging track.
+2022-06-14T15:19:50.287Z [info] [album_164408822_1] Mick Gordon - Impure Spectrum :: Track tagged.
+2022-06-14T15:19:50.288Z [info] [album_164408822_1] Completed download of 09 - Impure Spectrum.mp3
+2022-06-14T15:19:50.288Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Getting tags.
+2022-06-14T15:19:50.306Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Download URL got.
+2022-06-14T15:19:50.306Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Downloading album art.
+2022-06-14T15:19:50.307Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Album art downloaded.
+2022-06-14T15:19:50.339Z [info] [album_164408822_1] Download at 28%
+2022-06-14T15:19:50.537Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Downloading track. Downloading 2024175 bytes.
+2022-06-14T15:19:50.570Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Track downloaded.
+2022-06-14T15:19:50.570Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Tagging track.
+2022-06-14T15:19:50.593Z [info] [album_164408822_1] Mick Gordon - Flesh & Metal :: Track tagged.
+2022-06-14T15:19:50.593Z [info] [album_164408822_1] Completed download of 08 - Flesh & Metal.mp3
+2022-06-14T15:19:50.594Z [info] [album_164408822_1] Mick Gordon - Residual :: Getting tags.
+2022-06-14T15:19:50.611Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Tags got.
+2022-06-14T15:19:50.611Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Getting download URL.
+2022-06-14T15:19:50.694Z [info] [album_164408822_1] Download at 30%
+2022-06-14T15:19:50.768Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Download URL got.
+2022-06-14T15:19:50.768Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Downloading album art.
+2022-06-14T15:19:50.769Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Album art downloaded.
+2022-06-14T15:19:50.774Z [info] [album_164408822_1] Download at 32%
+2022-06-14T15:19:50.785Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Track downloaded.
+2022-06-14T15:19:50.785Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Tagging track.
+2022-06-14T15:19:50.792Z [info] [album_164408822_1] Mick Gordon - Ties That Bind :: Track tagged.
+2022-06-14T15:19:50.792Z [info] [album_164408822_1] Completed download of 10 - Ties That Bind.mp3
+2022-06-14T15:19:50.792Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Getting tags.
+2022-06-14T15:19:50.880Z [info] [album_164408822_1] Mick Gordon - Residual :: Tags got.
+2022-06-14T15:19:50.880Z [info] [album_164408822_1] Mick Gordon - Residual :: Getting download URL.
+2022-06-14T15:19:50.884Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Downloading track. Downloading 8109243 bytes.
+2022-06-14T15:19:51.048Z [info] [album_164408822_1] Mick Gordon - Residual :: Download URL got.
+2022-06-14T15:19:51.049Z [info] [album_164408822_1] Mick Gordon - Residual :: Downloading album art.
+2022-06-14T15:19:51.050Z [info] [album_164408822_1] Mick Gordon - Residual :: Album art downloaded.
+2022-06-14T15:19:51.084Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Tags got.
+2022-06-14T15:19:51.084Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Getting download URL.
+2022-06-14T15:19:51.239Z [info] [album_164408822_1] Mick Gordon - Residual :: Downloading track. Downloading 1864932 bytes.
+2022-06-14T15:19:51.242Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Download URL got.
+2022-06-14T15:19:51.243Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Downloading album art.
+2022-06-14T15:19:51.243Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Album art downloaded.
+2022-06-14T15:19:51.365Z [info] [album_164408822_1] Download at 34%
+2022-06-14T15:19:51.371Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Downloading track. Downloading 2477661 bytes.
+2022-06-14T15:19:51.459Z [info] [album_164408822_1] Download at 36%
+2022-06-14T15:19:51.486Z [info] [album_164408822_1] Mick Gordon - Residual :: Track downloaded.
+2022-06-14T15:19:51.486Z [info] [album_164408822_1] Mick Gordon - Residual :: Tagging track.
+2022-06-14T15:19:51.493Z [info] [album_164408822_1] Mick Gordon - Residual :: Track tagged.
+2022-06-14T15:19:51.493Z [info] [album_164408822_1] Completed download of 12 - Residual.mp3
+2022-06-14T15:19:51.493Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Getting tags.
+2022-06-14T15:19:51.560Z [info] [album_164408822_1] Download at 38%
+2022-06-14T15:19:51.654Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Track downloaded.
+2022-06-14T15:19:51.654Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Tagging track.
+2022-06-14T15:19:51.664Z [info] [album_164408822_1] Mick Gordon - Argent Energy :: Track tagged.
+2022-06-14T15:19:51.664Z [info] [album_164408822_1] Completed download of 13 - Argent Energy.mp3
+2022-06-14T15:19:51.664Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Getting tags.
+2022-06-14T15:19:51.824Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Tags got.
+2022-06-14T15:19:51.824Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Getting download URL.
+2022-06-14T15:19:51.959Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Tags got.
+2022-06-14T15:19:51.959Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Getting download URL.
+2022-06-14T15:19:51.967Z [info] [album_164408822_1] Download at 40%
+2022-06-14T15:19:52.043Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Download URL got.
+2022-06-14T15:19:52.043Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Downloading album art.
+2022-06-14T15:19:52.043Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Album art downloaded.
+2022-06-14T15:19:52.177Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Download URL got.
+2022-06-14T15:19:52.177Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Downloading album art.
+2022-06-14T15:19:52.177Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Album art downloaded.
+2022-06-14T15:19:52.184Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Downloading track. Downloading 6897161 bytes.
+2022-06-14T15:19:52.474Z [info] [album_164408822_1] Download at 42%
+2022-06-14T15:19:52.584Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Downloading track. Downloading 2181328 bytes.
+2022-06-14T15:19:52.753Z [info] [album_164408822_1] Download at 44%
+2022-06-14T15:19:52.761Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Track downloaded.
+2022-06-14T15:19:52.761Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Tagging track.
+2022-06-14T15:19:52.783Z [info] [album_164408822_1] Mick Gordon - Harbinger :: Track tagged.
+2022-06-14T15:19:52.784Z [info] [album_164408822_1] Completed download of 14 - Harbinger.mp3
+2022-06-14T15:19:52.784Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Getting tags.
+2022-06-14T15:19:52.945Z [info] [album_164408822_1] Download at 46%
+2022-06-14T15:19:53.024Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Track downloaded.
+2022-06-14T15:19:53.024Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Tagging track.
+2022-06-14T15:19:53.032Z [info] [album_164408822_1] Mick Gordon - Biowaves :: Track tagged.
+2022-06-14T15:19:53.032Z [info] [album_164408822_1] Completed download of 15 - Biowaves.mp3
+2022-06-14T15:19:53.032Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Getting tags.
+2022-06-14T15:19:53.104Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Tags got.
+2022-06-14T15:19:53.104Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Getting download URL.
+2022-06-14T15:19:53.248Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Download URL got.
+2022-06-14T15:19:53.248Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Downloading album art.
+2022-06-14T15:19:53.249Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Album art downloaded.
+2022-06-14T15:19:53.264Z [info] [album_164408822_1] Download at 48%
+2022-06-14T15:19:53.317Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Tags got.
+2022-06-14T15:19:53.317Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Getting download URL.
+2022-06-14T15:19:53.365Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Downloading track. Downloading 4494314 bytes.
+2022-06-14T15:19:53.455Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Track downloaded.
+2022-06-14T15:19:53.455Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Tagging track.
+2022-06-14T15:19:53.481Z [info] [album_164408822_1] Mick Gordon - Bfg Division :: Track tagged.
+2022-06-14T15:19:53.482Z [info] [album_164408822_1] Completed download of 11 - Bfg Division.mp3
+2022-06-14T15:19:53.482Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Getting tags.
+2022-06-14T15:19:53.491Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Download URL got.
+2022-06-14T15:19:53.491Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Downloading album art.
+2022-06-14T15:19:53.491Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Album art downloaded.
+2022-06-14T15:19:53.582Z [info] [album_164408822_1] Download at 50%
+2022-06-14T15:19:53.746Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Track downloaded.
+2022-06-14T15:19:53.746Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Tagging track.
+2022-06-14T15:19:53.761Z [info] [album_164408822_1] Mick Gordon - Olivia's Doom (Chad Mossholder Remix) :: Track tagged.
+2022-06-14T15:19:53.761Z [info] [album_164408822_1] Completed download of 16 - Olivia's Doom (Chad Mossholder Remix).mp3
+2022-06-14T15:19:53.761Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Getting tags.
+2022-06-14T15:19:53.801Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Downloading track. Downloading 5904926 bytes.
+2022-06-14T15:19:53.888Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Tags got.
+2022-06-14T15:19:53.888Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Getting download URL.
+2022-06-14T15:19:53.930Z [info] [album_164408822_1] Download at 52%
+2022-06-14T15:19:54.171Z [info] [album_164408822_1] Download at 54%
+2022-06-14T15:19:54.203Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Tags got.
+2022-06-14T15:19:54.203Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Getting download URL.
+2022-06-14T15:19:54.275Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Download URL got.
+2022-06-14T15:19:54.275Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Downloading album art.
+2022-06-14T15:19:54.275Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Album art downloaded.
+2022-06-14T15:19:54.278Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Track downloaded.
+2022-06-14T15:19:54.278Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Tagging track.
+2022-06-14T15:19:54.298Z [info] [album_164408822_1] Mick Gordon - Transistor Fist :: Track tagged.
+2022-06-14T15:19:54.298Z [info] [album_164408822_1] Completed download of 17 - Transistor Fist.mp3
+2022-06-14T15:19:54.298Z [info] [album_164408822_1] Mick Gordon - Incantation :: Getting tags.
+2022-06-14T15:19:54.383Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Download URL got.
+2022-06-14T15:19:54.384Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Downloading album art.
+2022-06-14T15:19:54.384Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Album art downloaded.
+2022-06-14T15:19:54.437Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Downloading track. Downloading 4003212 bytes.
+2022-06-14T15:19:54.504Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Downloading track. Downloading 6049122 bytes.
+2022-06-14T15:19:54.588Z [info] [album_164408822_1] Mick Gordon - Incantation :: Tags got.
+2022-06-14T15:19:54.589Z [info] [album_164408822_1] Mick Gordon - Incantation :: Getting download URL.
+2022-06-14T15:19:54.600Z [info] [album_164408822_1] Download at 56%
+2022-06-14T15:19:54.772Z [info] [album_164408822_1] Download at 58%
+2022-06-14T15:19:54.815Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Track downloaded.
+2022-06-14T15:19:54.815Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Tagging track.
+2022-06-14T15:19:54.831Z [info] [album_164408822_1] Mick Gordon - Dr. Samuel Hayden :: Track tagged.
+2022-06-14T15:19:54.831Z [info] [album_164408822_1] Completed download of 18 - Dr. Samuel Hayden.mp3
+2022-06-14T15:19:54.831Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Getting tags.
+2022-06-14T15:19:54.855Z [info] [album_164408822_1] Mick Gordon - Incantation :: Download URL got.
+2022-06-14T15:19:54.855Z [info] [album_164408822_1] Mick Gordon - Incantation :: Downloading album art.
+2022-06-14T15:19:54.855Z [info] [album_164408822_1] Mick Gordon - Incantation :: Album art downloaded.
+2022-06-14T15:19:54.994Z [info] [album_164408822_1] Mick Gordon - Incantation :: Downloading track. Downloading 3458193 bytes.
+2022-06-14T15:19:55.110Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Tags got.
+2022-06-14T15:19:55.110Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Getting download URL.
+2022-06-14T15:19:55.153Z [info] [album_164408822_1] Download at 60%
+2022-06-14T15:19:55.303Z [info] [album_164408822_1] Download at 62%
+2022-06-14T15:19:55.313Z [info] [album_164408822_1] Mick Gordon - Incantation :: Track downloaded.
+2022-06-14T15:19:55.313Z [info] [album_164408822_1] Mick Gordon - Incantation :: Tagging track.
+2022-06-14T15:19:55.327Z [info] [album_164408822_1] Mick Gordon - Incantation :: Track tagged.
+2022-06-14T15:19:55.327Z [info] [album_164408822_1] Completed download of 20 - Incantation.mp3
+2022-06-14T15:19:55.327Z [info] [album_164408822_1] Mick Gordon - Damnation :: Getting tags.
+2022-06-14T15:19:55.362Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Download URL got.
+2022-06-14T15:19:55.362Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Downloading album art.
+2022-06-14T15:19:55.362Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Album art downloaded.
+2022-06-14T15:19:55.496Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Downloading track. Downloading 2186761 bytes.
+2022-06-14T15:19:55.601Z [info] [album_164408822_1] Mick Gordon - Damnation :: Tags got.
+2022-06-14T15:19:55.601Z [info] [album_164408822_1] Mick Gordon - Damnation :: Getting download URL.
+2022-06-14T15:19:55.730Z [info] [album_164408822_1] Download at 64%
+2022-06-14T15:19:55.757Z [info] [album_164408822_1] Mick Gordon - Damnation :: Download URL got.
+2022-06-14T15:19:55.758Z [info] [album_164408822_1] Mick Gordon - Damnation :: Downloading album art.
+2022-06-14T15:19:55.758Z [info] [album_164408822_1] Mick Gordon - Damnation :: Album art downloaded.
+2022-06-14T15:19:56.025Z [info] [album_164408822_1] Download at 66%
+2022-06-14T15:19:56.053Z [info] [album_164408822_1] Mick Gordon - Damnation :: Downloading track. Downloading 6477112 bytes.
+2022-06-14T15:19:56.210Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Track downloaded.
+2022-06-14T15:19:56.210Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Tagging track.
+2022-06-14T15:19:56.219Z [info] [album_164408822_1] Mick Gordon - III. Dakhma :: Track tagged.
+2022-06-14T15:19:56.219Z [info] [album_164408822_1] Completed download of 21 - III. Dakhma.mp3
+2022-06-14T15:19:56.220Z [info] [album_164408822_1] Mick Gordon - The Stench :: Getting tags.
+2022-06-14T15:19:56.260Z [info] [album_164408822_1] Download at 68%
+2022-06-14T15:19:56.387Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Track downloaded.
+2022-06-14T15:19:56.387Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Tagging track.
+2022-06-14T15:19:56.412Z [info] [album_164408822_1] Mick Gordon - Cyberdemon :: Track tagged.
+2022-06-14T15:19:56.412Z [info] [album_164408822_1] Completed download of 19 - Cyberdemon.mp3
+2022-06-14T15:19:56.412Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Getting tags.
+2022-06-14T15:19:56.544Z [info] [album_164408822_1] Mick Gordon - The Stench :: Tags got.
+2022-06-14T15:19:56.544Z [info] [album_164408822_1] Mick Gordon - The Stench :: Getting download URL.
+2022-06-14T15:19:56.699Z [info] [album_164408822_1] Download at 70%
+2022-06-14T15:19:56.709Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Tags got.
+2022-06-14T15:19:56.709Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Getting download URL.
+2022-06-14T15:19:56.723Z [info] [album_164408822_1] Mick Gordon - The Stench :: Download URL got.
+2022-06-14T15:19:56.723Z [info] [album_164408822_1] Mick Gordon - The Stench :: Downloading album art.
+2022-06-14T15:19:56.723Z [info] [album_164408822_1] Mick Gordon - The Stench :: Album art downloaded.
+2022-06-14T15:19:56.825Z [info] [album_164408822_1] Mick Gordon - Damnation :: Track downloaded.
+2022-06-14T15:19:56.825Z [info] [album_164408822_1] Mick Gordon - Damnation :: Tagging track.
+2022-06-14T15:19:56.847Z [info] [album_164408822_1] Mick Gordon - Damnation :: Track tagged.
+2022-06-14T15:19:56.847Z [info] [album_164408822_1] Completed download of 22 - Damnation.mp3
+2022-06-14T15:19:56.847Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Getting tags.
+2022-06-14T15:19:56.888Z [info] [album_164408822_1] Mick Gordon - The Stench :: Downloading track. Downloading 2720913 bytes.
+2022-06-14T15:19:56.912Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Download URL got.
+2022-06-14T15:19:56.912Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Downloading album art.
+2022-06-14T15:19:56.913Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Album art downloaded.
+2022-06-14T15:19:57.042Z [info] [album_164408822_1] Download at 72%
+2022-06-14T15:19:57.150Z [info] [album_164408822_1] Download at 74%
+2022-06-14T15:19:57.168Z [info] [album_164408822_1] Mick Gordon - The Stench :: Track downloaded.
+2022-06-14T15:19:57.168Z [info] [album_164408822_1] Mick Gordon - The Stench :: Tagging track.
+2022-06-14T15:19:57.181Z [info] [album_164408822_1] Mick Gordon - The Stench :: Track tagged.
+2022-06-14T15:19:57.181Z [info] [album_164408822_1] Completed download of 23 - The Stench.mp3
+2022-06-14T15:19:57.181Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Getting tags.
+2022-06-14T15:19:57.186Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Downloading track. Downloading 2951626 bytes.
+2022-06-14T15:19:57.188Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Tags got.
+2022-06-14T15:19:57.188Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Getting download URL.
+2022-06-14T15:19:57.340Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Download URL got.
+2022-06-14T15:19:57.340Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Downloading album art.
+2022-06-14T15:19:57.341Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Album art downloaded.
+2022-06-14T15:19:57.465Z [info] [album_164408822_1] Download at 76%
+2022-06-14T15:19:57.505Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Tags got.
+2022-06-14T15:19:57.505Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Getting download URL.
+2022-06-14T15:19:57.558Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Track downloaded.
+2022-06-14T15:19:57.558Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Tagging track.
+2022-06-14T15:19:57.570Z [info] [album_164408822_1] Mick Gordon - Uac Report File; Shto36u3 :: Track tagged.
+2022-06-14T15:19:57.570Z [info] [album_164408822_1] Completed download of 24 - Uac Report File; Shto36u3.mp3
+2022-06-14T15:19:57.570Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Getting tags.
+2022-06-14T15:19:57.573Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Downloading track. Downloading 3665501 bytes.
+2022-06-14T15:19:57.648Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Download URL got.
+2022-06-14T15:19:57.649Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Downloading album art.
+2022-06-14T15:19:57.649Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Album art downloaded.
+2022-06-14T15:19:57.711Z [info] [album_164408822_1] Download at 78%
+2022-06-14T15:19:57.784Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Downloading track. Downloading 6974483 bytes.
+2022-06-14T15:19:57.882Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Tags got.
+2022-06-14T15:19:57.883Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Getting download URL.
+2022-06-14T15:19:57.928Z [info] [album_164408822_1] Download at 80%
+2022-06-14T15:19:58.068Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Track downloaded.
+2022-06-14T15:19:58.069Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Tagging track.
+2022-06-14T15:19:58.083Z [info] [album_164408822_1] Mick Gordon - Death & Exhale :: Track tagged.
+2022-06-14T15:19:58.083Z [info] [album_164408822_1] Completed download of 25 - Death & Exhale.mp3
+2022-06-14T15:19:58.083Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Getting tags.
+2022-06-14T15:19:58.152Z [info] [album_164408822_1] Download at 82%
+2022-06-14T15:19:58.367Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Download URL got.
+2022-06-14T15:19:58.367Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Downloading album art.
+2022-06-14T15:19:58.367Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Album art downloaded.
+2022-06-14T15:19:58.432Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Track downloaded.
+2022-06-14T15:19:58.432Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Tagging track.
+2022-06-14T15:19:58.458Z [info] [album_164408822_1] Mick Gordon - SkullHacker :: Track tagged.
+2022-06-14T15:19:58.458Z [info] [album_164408822_1] Completed download of 26 - SkullHacker.mp3
+2022-06-14T15:19:58.458Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Getting tags.
+2022-06-14T15:19:58.520Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Downloading track. Downloading 3505004 bytes.
+2022-06-14T15:19:58.581Z [info] [album_164408822_1] Download at 84%
+2022-06-14T15:19:58.583Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Tags got.
+2022-06-14T15:19:58.583Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Getting download URL.
+2022-06-14T15:19:58.728Z [info] [album_164408822_1] Download at 86%
+2022-06-14T15:19:58.815Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Tags got.
+2022-06-14T15:19:58.815Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Getting download URL.
+2022-06-14T15:19:58.818Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Track downloaded.
+2022-06-14T15:19:58.818Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Tagging track.
+2022-06-14T15:19:58.830Z [info] [album_164408822_1] Mick Gordon - Lazarus Waves :: Track tagged.
+2022-06-14T15:19:58.830Z [info] [album_164408822_1] Completed download of 27 - Lazarus Waves.mp3
+2022-06-14T15:19:58.830Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Getting tags.
+2022-06-14T15:19:58.833Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Download URL got.
+2022-06-14T15:19:58.833Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Downloading album art.
+2022-06-14T15:19:58.833Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Album art downloaded.
+2022-06-14T15:19:58.951Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Downloading track. Downloading 7728900 bytes.
+2022-06-14T15:19:58.992Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Download URL got.
+2022-06-14T15:19:58.992Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Downloading album art.
+2022-06-14T15:19:58.993Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Album art downloaded.
+2022-06-14T15:19:59.171Z [info] [album_164408822_1] Download at 88%
+2022-06-14T15:19:59.229Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Tags got.
+2022-06-14T15:19:59.229Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Getting download URL.
+2022-06-14T15:19:59.411Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Downloading track. Downloading 1569017 bytes.
+2022-06-14T15:19:59.462Z [info] [album_164408822_1] Download at 90%
+2022-06-14T15:19:59.538Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Track downloaded.
+2022-06-14T15:19:59.538Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Tagging track.
+2022-06-14T15:19:59.563Z [info] [album_164408822_1] Mick Gordon - Vega Core :: Track tagged.
+2022-06-14T15:19:59.563Z [info] [album_164408822_1] Completed download of 28 - Vega Core.mp3
+2022-06-14T15:19:59.563Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Getting tags.
+2022-06-14T15:19:59.594Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Download URL got.
+2022-06-14T15:19:59.595Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Downloading album art.
+2022-06-14T15:19:59.595Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Album art downloaded.
+2022-06-14T15:19:59.670Z [info] [album_164408822_1] Download at 92%
+2022-06-14T15:19:59.711Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Track downloaded.
+2022-06-14T15:19:59.711Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Tagging track.
+2022-06-14T15:19:59.716Z [info] [album_164408822_1] Mick Gordon - 6_idkill.Vega.Cih :: Track tagged.
+2022-06-14T15:19:59.716Z [info] [album_164408822_1] Completed download of 29 - 6_idkill.Vega.Cih.mp3
+2022-06-14T15:19:59.730Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Downloading track. Downloading 6360919 bytes.
+2022-06-14T15:19:59.867Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Tags got.
+2022-06-14T15:19:59.867Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Getting download URL.
+2022-06-14T15:20:00.063Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Download URL got.
+2022-06-14T15:20:00.064Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Downloading album art.
+2022-06-14T15:20:00.065Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Album art downloaded.
+2022-06-14T15:20:00.104Z [info] [album_164408822_1] Download at 94%
+2022-06-14T15:20:00.290Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Downloading track. Downloading 1719065 bytes.
+2022-06-14T15:20:00.401Z [info] [album_164408822_1] Download at 96%
+2022-06-14T15:20:00.470Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Track downloaded.
+2022-06-14T15:20:00.470Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Tagging track.
+2022-06-14T15:20:00.476Z [info] [album_164408822_1] Mick Gordon - IV. Doom :: Track tagged.
+2022-06-14T15:20:00.476Z [info] [album_164408822_1] Completed download of 31 - IV. Doom.mp3
+2022-06-14T15:20:00.673Z [info] [album_164408822_1] Download at 98%
+2022-06-14T15:20:01.811Z [info] [album_164408822_1] Download at 100%
+2022-06-14T15:20:01.813Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Track downloaded.
+2022-06-14T15:20:01.814Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Tagging track.
+2022-06-14T15:20:01.849Z [info] [album_164408822_1] Mick Gordon - Mastermind :: Track tagged.
+2022-06-14T15:20:01.849Z [info] [album_164408822_1] Completed download of 30 - Mastermind.mp3
+2022-06-14T15:20:02.066Z [info] [album_164408822_1] Finished downloading
+2022-06-14T15:20:02.068Z [info] 
